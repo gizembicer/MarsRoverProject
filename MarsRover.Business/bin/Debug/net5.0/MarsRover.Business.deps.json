@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MarsRover.Business/1.0.0": {
+        "dependencies": {
+          "MarsRover.Constants": "1.0.0"
+        },
+        "runtime": {
+          "MarsRover.Business.dll": {}
+        }
+      },
+      "MarsRover.Constants/1.0.0": {
+        "runtime": {
+          "MarsRover.Constants.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MarsRover.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MarsRover.Constants/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\gizem.aydin\source\repos\MarsRoverProject\MarsRover.Business\obj\Debug\net5.0\MarsRover.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gizem.aydin\source\repos\MarsRoverProject\MarsRover.Business\obj\Debug\net5.0\MarsRover.Business.AssemblyInfoInputs.cache
+C:\Users\gizem.aydin\source\repos\MarsRoverProject\MarsRover.Business\obj\Debug\net5.0\MarsRover.Business.AssemblyInfo.cs
+C:\Users\gizem.aydin\source\repos\MarsRoverProject\MarsRover.Business\obj\Debug\net5.0\MarsRover.Business.csproj.CoreCompileInputs.cache
+C:\Users\gizem.aydin\source\repos\MarsRoverProject\MarsRover.Business\bin\Debug\net5.0\MarsRover.Business.deps.json
+C:\Users\gizem.aydin\source\repos\MarsRoverProject\MarsRover.Business\bin\Debug\net5.0\MarsRover.Business.dll
+C:\Users\gizem.aydin\source\repos\MarsRoverProject\MarsRover.Business\bin\Debug\net5.0\ref\MarsRover.Business.dll
+C:\Users\gizem.aydin\source\repos\MarsRoverProject\MarsRover.Business\bin\Debug\net5.0\MarsRover.Business.pdb
+C:\Users\gizem.aydin\source\repos\MarsRoverProject\MarsRover.Business\bin\Debug\net5.0\MarsRover.Constants.dll
+C:\Users\gizem.aydin\source\repos\MarsRoverProject\MarsRover.Business\bin\Debug\net5.0\MarsRover.Constants.pdb
+C:\Users\gizem.aydin\source\repos\MarsRoverProject\MarsRover.Business\obj\Debug\net5.0\MarsRover.Business.csproj.AssemblyReference.cache
+C:\Users\gizem.aydin\source\repos\MarsRoverProject\MarsRover.Business\obj\Debug\net5.0\MarsRover.Business.csproj.CopyComplete
+C:\Users\gizem.aydin\source\repos\MarsRoverProject\MarsRover.Business\obj\Debug\net5.0\MarsRover.Business.dll
+C:\Users\gizem.aydin\source\repos\MarsRoverProject\MarsRover.Business\obj\Debug\net5.0\ref\MarsRover.Business.dll
+C:\Users\gizem.aydin\source\repos\MarsRoverProject\MarsRover.Business\obj\Debug\net5.0\MarsRover.Business.pdb

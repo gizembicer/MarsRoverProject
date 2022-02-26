@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gJV6ouF2dcZugBSpI0sECUCcl+3OIRGEjsSjr96pJ1r3PfyQu8qVzyB97C1H9sgXY6EZjl6R5XBXnqQAapuOKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gizem.aydin\\source\\repos\\MarsRoverProject\\MarsRover\\MarsRover.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gizem.aydin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\gizem.aydin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\gizem.aydin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\gizem.aydin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

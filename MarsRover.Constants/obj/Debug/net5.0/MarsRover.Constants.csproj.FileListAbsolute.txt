@@ -1,0 +1,12 @@
+C:\Users\gizem.aydin\source\repos\MarsRoverProject\MarsRover.Constants\obj\Debug\net5.0\MarsRover.Constants.csproj.AssemblyReference.cache
+C:\Users\gizem.aydin\source\repos\MarsRoverProject\MarsRover.Constants\obj\Debug\net5.0\MarsRover.Constants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gizem.aydin\source\repos\MarsRoverProject\MarsRover.Constants\obj\Debug\net5.0\MarsRover.Constants.AssemblyInfoInputs.cache
+C:\Users\gizem.aydin\source\repos\MarsRoverProject\MarsRover.Constants\obj\Debug\net5.0\MarsRover.Constants.AssemblyInfo.cs
+C:\Users\gizem.aydin\source\repos\MarsRoverProject\MarsRover.Constants\obj\Debug\net5.0\MarsRover.Constants.csproj.CoreCompileInputs.cache
+C:\Users\gizem.aydin\source\repos\MarsRoverProject\MarsRover.Constants\bin\Debug\net5.0\MarsRover.Constants.deps.json
+C:\Users\gizem.aydin\source\repos\MarsRoverProject\MarsRover.Constants\bin\Debug\net5.0\MarsRover.Constants.dll
+C:\Users\gizem.aydin\source\repos\MarsRoverProject\MarsRover.Constants\bin\Debug\net5.0\ref\MarsRover.Constants.dll
+C:\Users\gizem.aydin\source\repos\MarsRoverProject\MarsRover.Constants\bin\Debug\net5.0\MarsRover.Constants.pdb
+C:\Users\gizem.aydin\source\repos\MarsRoverProject\MarsRover.Constants\obj\Debug\net5.0\MarsRover.Constants.dll
+C:\Users\gizem.aydin\source\repos\MarsRoverProject\MarsRover.Constants\obj\Debug\net5.0\ref\MarsRover.Constants.dll
+C:\Users\gizem.aydin\source\repos\MarsRoverProject\MarsRover.Constants\obj\Debug\net5.0\MarsRover.Constants.pdb
